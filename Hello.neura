@@ -1,0 +1,6 @@
+agent MultanBot {
+  zaban: urdu, english
+  maqsad: 'Dukan ke liye bot'
+  socho { customer kya chahta hai? }
+  karo { jawaab do }
+}
